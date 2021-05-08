@@ -1,4 +1,4 @@
-title:               Garden
+title:               Fionn's Digital Garden
 url:                 https://fionnd.github.io/garden
 baseurl:             /garden
 
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Fionn Delahunty
+  url:               fionnd.github.io
+  email:             fionnd@pm.me
 
 plugins:
   - jekyll-coffeescript
