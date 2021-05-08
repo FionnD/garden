@@ -1,6 +1,6 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
-baseurl:             /celeste
+title:               Garden
+url:                 https://fionnd.github.io/garden
+baseurl:             /garden
 
 markdown:            kramdown
 highlighter:         rouge
