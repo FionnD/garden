@@ -11,11 +11,13 @@ The epiphany happened when I realized that I was comparing blog posts to academi
 
 I came across the concept of digital gardens recently. 
 
-"While not everybody has or works in a dirt garden, we all share a familiarity with the idea of what a garden is.
+> "While not everybody has or works in a dirt garden, we all share a familiarity with the idea of what a garden is.
+>
+>A garden is usually a place where things grow.
+>
+>Gardens can be very personal and full of whimsy, or a garden can be a source of food and substance." 
 
-A garden is usually a place where things grow.
-
-Gardens can be very personal and full of whimsy, or a garden can be a source of food and substance." https://joelhooks.com/digital-garden
+[Reference](https://joelhooks.com/digital-garden)
 
 This idea that I could keep a place where my thoughts grow, and I don't have to declare any level of research was very appealing publically. 
 
