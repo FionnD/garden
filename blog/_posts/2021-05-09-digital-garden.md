@@ -28,8 +28,8 @@ While looking into other's digital gardens, there were some things I liked, and 
 [Joel Hooks](https://joelhooks.com/digital-garden) has some good thoughts on why paginated posted sorted chronologically fuckin' sucks. This is why my home page follows a file structure. I might translate it into a more wiki approach like [tomcritchlow](https://tomcritchlow.com/2019/02/17/building-digital-garden/) someday. 
 
 For anyone interested in DG, I suggest reading the following two posts:
-* https://tomcritchlow.com/2019/02/17/building-digital-garden/ 
-* https://joelhooks.com/digital-garden
+* [https://tomcritchlow.com/2019/02/17/building-digital-garden/ ](https://tomcritchlow.com/2019/02/17/building-digital-garden/ )
+* [https://joelhooks.com/digital-garden](https://joelhooks.com/digital-garden)
 
 
 
